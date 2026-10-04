@@ -27,5 +27,5 @@ blindspot/ui.py       CSS + components   blindspot/demo.py  example + offline an
 blindspot/report.py   Markdown export      tests/            unit + stubbed-UI smoke tests
 ```
 
-## AI approach
-O
+
+
